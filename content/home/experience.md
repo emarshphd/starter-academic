@@ -20,7 +20,21 @@ date_format = "Jan 2006"
 
 [[experience]] 
 
-title = "Lecturer II" company = "University of Michigan - Dearborn" company_url = "https://www.umdearborn.edu" location = "Dearborn, MI" date_start = "2012-01-01" date_end = "" description = """ Courses taught:
+title = "Lecturer II" 
+
+company = "University of Michigan - Dearborn" 
+
+company_url = "https://www.umdearborn.edu" 
+
+location = "Dearborn, MI" 
+
+date_start = "2012-01-01" 
+
+date_end = "" 
+
+description = """ 
+
+Courses taught:
 
     Intro to Screen Studies
     Film and Society
