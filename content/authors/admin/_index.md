@@ -1,37 +1,32 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Erik Marshall
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
-
+role: Lecturer
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
-
+- name: University of Michigan - Dearborn
+  url: "https://www.umdearborn.edu" 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: "Film and Media scholar"
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Film
+- Media
+- Video Games
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Film and Media Studies
+    institution: Wayne State University
+    year: 2010
+  - course: B.A. in French/Education
+    institution: Wayne State University
+    year: 1995
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -43,13 +38,17 @@ social:
   link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/emarsh
+- icon: instagram
+  icon_pack: fab
+  link: https://instagram.com/emarshphd
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/emarshphd
+- icon: 
+- icon: mastodon
+  icon_pack: fab
+  link: https://scholar.social/@emarsh
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -57,7 +56,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "erik@erikmarshall.net"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -69,6 +68,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Erik Marshall (or "emarsh" to his friends) is a writer and teacher, currently working at University of Michigan - Dearborn. He is writing a memoir and a novel series about an adjunct professor who moonlights as a private detective.
