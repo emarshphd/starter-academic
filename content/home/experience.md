@@ -38,11 +38,11 @@ description = """
 
 Courses taught:
 
-Intro to Screen Studies
-Film and Society
-Issues in Cyberspace
-Theory of the Screen
-Video Game Studies and Criticism
+* Intro to Screen Studies
+* Film and Society
+* Issues in Cyberspace
+* Theory of the Screen
+* Video Game Studies and Criticism
 """
 
 [[experience]] 
