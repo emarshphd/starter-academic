@@ -114,9 +114,13 @@ description = """
 Courses taught:
 
 Introduction to Film
+
 Intro to College Writing
+
 Intermediate Composition
+
 American Studies
+
 Great Works of World Cinema
     """
 
