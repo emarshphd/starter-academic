@@ -73,7 +73,7 @@ Courses taught:
 [[experience]] 
 
 
-title = "Adjunct" 
+title = "" 
 
 company = "Oakland Community College" 
 
@@ -144,7 +144,7 @@ description = ""
 [[experience]] 
 
 
-title = "Adjunct Instructor" 
+title = "" 
 
 company = "Lawrence Tech University" 
 
@@ -163,7 +163,7 @@ description = """Courses taught:
 [[experience]] 
 
 
-title = "Adjunct Instructor" 
+title = "" 
 
 company = "College for Creative Studies" 
 
@@ -177,7 +177,7 @@ date_end = "2004-12-21"
 
 description = """
 
-Courses taught:
+Course taught:
 
  History of Animation """
 
