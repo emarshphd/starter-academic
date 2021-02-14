@@ -48,7 +48,7 @@ Courses taught:
 [[experience]] 
 
 
-title = "Adjunct" 
+title = "" 
 
 company = "Henry Ford College" 
 
@@ -64,9 +64,9 @@ description = """
 
 Courses taught:
 
-Intro to Telecommunication
-Intro to Film
-Screenwriting
+- Intro to Telecommunication
+- Intro to Film
+- Screenwriting
 
 """
 
@@ -90,6 +90,7 @@ description = """
 Courses taught:
 
 Intro to Film
+
 Composition II
 
     """
