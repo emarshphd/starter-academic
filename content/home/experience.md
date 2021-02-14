@@ -89,11 +89,10 @@ description = """
 
 Courses taught:
 
-Intro to Film
+- Intro to Film
+- Composition II
 
-Composition II
-
-    """
+"""
 
 [[experience]] 
 
