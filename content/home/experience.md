@@ -111,7 +111,7 @@ date_end = "2007-06-01"
 
 description = """ 
 
-Courses taught:
+**Courses taught:**
 
 Introduction to Film
 
