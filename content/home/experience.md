@@ -36,7 +36,7 @@ date_end = ""
 description = """ 
 
 
-Courses taught:
+**Courses taught:**
 
 * Intro to Screen Studies
 * Film and Society
@@ -62,7 +62,7 @@ date_end = "2012-01-01"
 
 description = """ 
 
-Courses taught:
+**Courses taught:**
 
 - Intro to Telecommunication
 - Intro to Film
@@ -87,7 +87,7 @@ date_end = "2012-01-01"
 
 description = """ 
 
-Courses taught:
+**Courses taught:**
 
 - Intro to Film
 - Composition II
