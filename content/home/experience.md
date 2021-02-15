@@ -21,11 +21,11 @@ date_format = "Jan 2006"
 [[experience]] 
 
 
-title = "Lecturer II" 
-
 company = "University of Michigan - Dearborn" 
 
 company_url = "https://www.umdearborn.edu" 
+
+title = "Lecturer II" 
 
 location = "Dearborn, MI" 
 
