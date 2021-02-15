@@ -156,9 +156,7 @@ date_start = "2007-09-01"
 
 date_end = "2008-05-01" 
 
-description = """Courses taught:
-
- World Masterpieces of Literature I and II """
+description = "World Masterpieces of Literature I and II"
 
 [[experience]] 
 
@@ -175,10 +173,6 @@ date_start = "2004-09-01"
 
 date_end = "2004-12-21" 
 
-description = """
-
-Course taught:
-
- History of Animation """
+description = "History of Animation"
 
 +++
