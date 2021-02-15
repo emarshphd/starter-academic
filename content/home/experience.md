@@ -97,7 +97,7 @@ description = """
 [[experience]] 
 
 
-title = "Graduate Teaching Assistant" 
+title = "Graduate Teaching Assistant/Part-Time Faculty" 
 
 company = "Wayne State University" 
 
@@ -107,7 +107,7 @@ location = "Detroit, Michigan"
 
 date_start = "1998-09-01" 
 
-date_end = "2003-06-01" 
+date_end = "2007-06-01" 
 
 description = """ 
 
@@ -124,21 +124,21 @@ American Studies
 Great Works of World Cinema
     """
 
-[[experience]] 
+# [[experience]] 
 
-title = "Adjunct Instructor" 
+# title = "Adjunct Instructor" 
 
-company = "Wayne State University" 
+# company = "Wayne State University" 
 
-company_url = "http://www.wayne.edu/" 
+# company_url = "http://www.wayne.edu/" 
 
-location = "Detroit, Michigan" 
+# location = "Detroit, Michigan" 
 
-date_start = "2003-06-01" 
+# date_start = "2003-06-01" 
 
-date_end = "2007-09-01" 
+# date_end = "2007-09-01" 
 
-description = ""
+# description = ""
 
 
 [[experience]] 
