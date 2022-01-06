@@ -31,7 +31,7 @@ location = "Dearborn, MI"
 
 date_start = "2012-01-01" 
 
-date_end = "" 
+date_end = "2021-08-31" 
 
 description = """ 
 
