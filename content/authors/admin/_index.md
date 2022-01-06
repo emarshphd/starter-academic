@@ -6,18 +6,17 @@ title: Erik Marshall
 superuser: true
 
 # Role/position
-role: Lecturer
+role: Union Organizer
 # Organizations/Affiliations
 organizations:
-- name: University of Michigan - Dearborn
-  url: "https://www.umdearborn.edu" 
+- name: AFT Michigan
+  url: "https://aftmichigan.org/" 
 # Short bio (displayed in user profile at end of posts)
-bio: "Film and Media scholar"
+bio: ""
 
 interests:
-- Film
-- Media
-- Video Games
+- building power
+- workplace democracy
 
 education:
   courses:
