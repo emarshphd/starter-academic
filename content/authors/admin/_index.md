@@ -41,10 +41,6 @@ social:
 - icon: instagram
   icon_pack: fab
   link: https://instagram.com/emarshphd
-- icon: github
-  icon_pack: fab
-  link: https://github.com/emarshphd
-- icon: 
 - icon: mastodon
   icon_pack: fab
   link: https://scholar.social/@emarsh
@@ -67,4 +63,4 @@ user_groups:
 - Visitors
 ---
 
-Erik Marshall (or "emarsh" to his friends) is a writer and teacher, currently working at University of Michigan - Dearborn. He is writing a memoir and a novel series about an adjunct professor who moonlights as a private detective.
+Erik Marshall is a writer, teacher and union organizer. 
