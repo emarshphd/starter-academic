@@ -118,6 +118,7 @@ contact_links = [
 #  {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
    {icon = "telegram", icon_pack = "fab", name = "Telegram", link = "https://telegram.me/emarshphd"},
    {icon = "instagram", icon_pack = "fab", name = "Instagram", link = "https://instagram.com/emarshphd"},
+   {icon = "mastodon", icon_pack = "fab", name = "Instagram", link = "<a rel="me" href="https://scholar.social/@emarsh">Mastodon</a>"},
   ]
 
 ############################
