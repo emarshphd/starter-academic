@@ -64,3 +64,4 @@ user_groups:
 ---
 
 Erik Marshall is a writer, teacher and union organizer. 
+<a rel="me" href="https://scholar.social/@emarsh">Mastodon</a>
